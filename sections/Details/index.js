@@ -1,7 +1,7 @@
 import text from './text.md';
 
 export default {
-  url: 'Details',
+  // url: 'Details',
   name: 'Details',
   title: `Details`,
   subtitle: `We go into depth about an unleakable implementation`,
