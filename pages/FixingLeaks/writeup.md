@@ -36,4 +36,4 @@ The devastation is a consequence of the fact that:
 * a subset of examinees have found an easy way to breeze through the exam without having a grasp of the subject matter, making the whole exercise meaningless for other students. 
 * since the question paper is common for everybody, **it's impossible to tell what subset of examinees benefitted from the leak**. It could be everybody for all you know. Or it could be just one maverick *leakee* who managed to stay quiet until the results came in.
 
-In the of this whitepaper, we lay out how we can build a leak resistant system by making leaks non-catastrophic.
+In the rest of this whitepaper, we lay out how we can build a leak resistant system by making leaks non-catastrophic.
